@@ -14,8 +14,6 @@ This project is a smart irrigation system built using machine learning to predic
 The Streamlit app automatically generates 20 random sensor values between 0 and 1 and uses the trained model to predict whether irrigation is required.
 
 ## How to Run Locally
-
-1. **Install Streamlit** (only once):
    ```bash
    pip install streamlit
    streamlit run app.py
