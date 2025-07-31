@@ -18,3 +18,7 @@ The Streamlit app automatically generates 20 random sensor values between 0 and 
 1. **Install Streamlit** (only once):
    ```bash
    pip install streamlit
+   streamlit run app.py
+   pip install streamlit numpy joblib
+   
+
